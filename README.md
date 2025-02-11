@@ -10,8 +10,7 @@
 
 ## 📊 Language Statistics
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeru19&layout=donut&exclude_repo=Web-developments&langs_count=8)
 *Data from my public repositories.*
 
 ---
@@ -47,5 +46,3 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeru19&layout=donut&exclude_repo=Web-developments&langs_count=8)
-</div>
