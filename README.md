@@ -3,9 +3,18 @@
 </div>
 
 <div align="center">
-![Гистограмма языков](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
+
+# 🚀 Valery Kozhin
+
+## 📊 Language Statistics
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
+
+*Data from my public repositories.*
 
 ---
+
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,14 +29,18 @@
 
 ---
 
-![Статистика активности](https://github-readme-stats.vercel.app/api?username=valery19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+## 📈 Activity Stats
+
+![Activity Stats](https://github-readme-stats.vercel.app/api?username=valery19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ---
 
-⭐ **Спасибо за визит!** ⭐
+## 📱 Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Desert_Lis)
+
+---
+
+⭐ **Thanks for visiting!** ⭐
 
 </div>
-
-### Контакты:
-- **Email**: lilkogin01@gmail.com
-- **Telegram**: https://t.me/Desert_Lis
