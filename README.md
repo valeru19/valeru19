@@ -11,7 +11,6 @@
 ## 📊 Language Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeru19&layout=donut&exclude_repo=Web-developments&langs_count=8)
-*Data from my public repositories.*
 
 ---
 
