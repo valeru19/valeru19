@@ -43,4 +43,5 @@
 
 ⭐ **Thanks for visiting!** ⭐
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeru19k&layout=donut&exclude_repo=Web-developments&langs_count=8)
 </div>
