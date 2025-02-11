@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=valery19&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
 
 <div align="center">
 
@@ -38,6 +34,9 @@
 ## 📱 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=valery19&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
