@@ -1,14 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=valery19&style=flat-square&color=blue" alt=""/>
 </div>
-
-## 📊 
-
-![Гистограмма языков](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
----
-
-## 🛠️ 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,6 +12,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ---
+
+## 📊 
+
+![Гистограмма языков](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
+---
+
 
 ## 📈 
 
