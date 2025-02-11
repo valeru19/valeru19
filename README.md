@@ -1,9 +1,10 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vesimeu&style=flat-square&color=blue" alt=""/>
+</div>
+
 ## 📊 
 
 ![Гистограмма языков](https://github-readme-stats.vercel.app/api/top-langs/?username=valery19&layout=compact&theme=radical&hide_border=true)
-
-
-
 ---
 
 ## 🛠️ 
@@ -18,7 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
 ---
 
 ## 📈 
