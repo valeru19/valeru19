@@ -24,13 +24,6 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/)
 
 ---
-
-## 📈 Activity Stats
-
-![Activity Stats](https://github-readme-stats.vercel.app/api?username=valery19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
----
-
 ## 📱 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Desert_Lis)
