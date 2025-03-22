@@ -6,7 +6,7 @@
 
 ## 📊 Language Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeru19&layout=donut&exclude_repo=Web-developments&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
